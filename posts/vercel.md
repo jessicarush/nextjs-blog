@@ -23,6 +23,6 @@ Follow the steps for [deploying your Next.js app](https://nextjs.org/learn/basic
 
 They recommend the **Develop, Preview, Ship** process:
 
-- **Develop**: We’ve written code in Next.js and used the Next.js development server running to take advantage of its hot reloading feature.
-- **Preview**: We’ve pushed changes to a branch on GitHub, and Vercel created a preview deployment that’s available via a URL. We can share this preview URL with others for feedback. In addition to doing code reviews, you can do deployment previews.
-- **Ship**: We’ve merged the pull request to main to ship to production.
+- **Develop**: Code in Next.js and use the Next.js development server running to take advantage of its hot reloading feature.
+- **Preview**: Push changes to a branch on GitHub, and Vercel creates a preview deployment that’s available via a URL. You can share this preview URL with others for feedback. In addition to doing code reviews, you can do deployment previews.
+- **Ship**: Merged the pull request to main to ship to production.
